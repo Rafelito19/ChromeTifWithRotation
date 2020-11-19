@@ -1,2 +1,2 @@
 # ChromeTifWithRotation
-Display tif images in chrome  with avility to rotate
+Display tif images in chrome  with ability   to rotate
